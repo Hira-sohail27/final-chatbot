@@ -1,0 +1,9 @@
+Acme Support Hours: Our support team is available Monday to Friday, 9 AM to 6 PM Pakistan Standard Time. Weekend support is available by email only.
+
+Refund Policy: Customers can request a full refund within 30 days of purchase. After 30 days, refunds are not available but store credit may be offered.
+
+Shipping: Standard shipping inside Pakistan takes 3 to 5 business days. International shipping takes 7 to 14 business days. Shipping is free for orders above 5000 PKR.
+
+Account Security: Acme never asks for your password by email. Enable two-factor authentication from Settings > Security to protect your account.
+
+Premium Plan: The Premium plan costs 15 USD per month and includes unlimited projects, priority support, and 100 GB of storage.

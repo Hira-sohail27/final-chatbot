@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+motor
+qdrant-client
+bcrypt
+pyjwt
+openai
+pytest
+httpx
+mongomock-motor
